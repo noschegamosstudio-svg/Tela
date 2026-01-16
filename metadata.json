@@ -1,0 +1,8 @@
+{
+  "name": "VisionStream TV",
+  "description": "Uma experiência de streaming ao vivo de próxima geração para Smart TVs, com integração do Gemini Live API para interações em tempo real.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
